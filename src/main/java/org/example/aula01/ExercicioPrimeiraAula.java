@@ -1,12 +1,11 @@
-package org.example;
+package org.example.aula01;
 
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class ExercicioA {
-
+public class ExercicioPrimeiraAula {
 
     public static void main(String[] args) throws Exception {
 
