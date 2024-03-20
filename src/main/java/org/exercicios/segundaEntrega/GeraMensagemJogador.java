@@ -1,6 +1,6 @@
-package org.example.exercicios.segundaEntrega;
+package org.exercicios.segundaEntrega;
 
-public class Application {
+public class GeraMensagemJogador {
 
     public static void main(String[] args) {
         String nome = JogadorGerador.geraJogador().getNome();
