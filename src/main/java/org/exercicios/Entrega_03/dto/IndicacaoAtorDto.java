@@ -1,6 +1,6 @@
-package org.exercicios.terceiraEntrega.dto;
+package org.exercicios.Entrega_03.dto;
 
-import org.exercicios.terceiraEntrega.model.Ator;
+import org.exercicios.Entrega_03.model.Ator;
 
 public class IndicacaoAtorDto {
 

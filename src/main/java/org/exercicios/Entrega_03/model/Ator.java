@@ -1,4 +1,4 @@
-package org.exercicios.terceiraEntrega.model;
+package org.exercicios.Entrega_03.model;
 
 import java.io.Serializable;
 

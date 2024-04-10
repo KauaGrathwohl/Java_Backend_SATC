@@ -1,8 +1,8 @@
-package org.exercicios.terceiraEntrega.controller;
+package org.exercicios.Entrega_03.controller;
 
-import org.exercicios.terceiraEntrega.dto.IndicacaoAtorDto;
-import org.exercicios.terceiraEntrega.dto.IndicacaoFilmeDto;
-import org.exercicios.terceiraEntrega.service.OscarService;
+import org.exercicios.Entrega_03.dto.IndicacaoAtorDto;
+import org.exercicios.Entrega_03.dto.IndicacaoFilmeDto;
+import org.exercicios.Entrega_03.service.OscarService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

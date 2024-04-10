@@ -1,9 +1,9 @@
-package org.exercicios.terceiraEntrega.service;
+package org.exercicios.Entrega_03.service;
 
 import org.springframework.stereotype.Service;
-import org.exercicios.terceiraEntrega.dto.IndicacaoFilmeDto;
-import org.exercicios.terceiraEntrega.dto.IndicacaoAtorDto;
-import org.exercicios.terceiraEntrega.model.Indicacao;
+import org.exercicios.Entrega_03.dto.IndicacaoFilmeDto;
+import org.exercicios.Entrega_03.dto.IndicacaoAtorDto;
+import org.exercicios.Entrega_03.model.Indicacao;
 
 import java.util.ArrayList;
 

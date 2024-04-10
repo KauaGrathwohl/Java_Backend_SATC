@@ -1,6 +1,6 @@
-package org.exercicios.terceiraEntrega.dto;
+package org.exercicios.Entrega_03.dto;
 
-import org.exercicios.terceiraEntrega.model.Filme;
+import org.exercicios.Entrega_03.model.Filme;
 
 public class IndicacaoFilmeDto {
 

@@ -1,4 +1,4 @@
-package org.exercicios.terceiraEntrega;
+package org.exercicios.Entrega_03;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
