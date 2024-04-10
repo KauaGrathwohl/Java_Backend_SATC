@@ -1,4 +1,4 @@
-package org.exercicios.primeiraEntrega;
+package org.exercicios.Entrega_01;
 
 import java.net.URI;
 import java.net.http.HttpClient;
