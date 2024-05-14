@@ -1,4 +1,4 @@
-package org.exercicios.segundaEntrega;
+package org.exercicios.Entrega_02;
 
 public class Jogador {
 
